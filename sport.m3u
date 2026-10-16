@@ -30,3 +30,54 @@ http://stream.mcquack.net/390/index.m3u8
 
 #EXTINF:-1 tvg-id="CastingCouchX.us@HD" tvg-logo="" group-title="Other",CastingCouchX (FHD)
 http://stream.mcquack.net/56/index.m3u8
+
+#EXTINF:-1,Animal Planet (ru)
+http://stream.mcquack.net/114/index.m3u8
+
+#EXTINF:-1,National Geographic (ru)
+http://stream.mcquack.net/114/index.m3u8
+
+#EXTINF:-1,National Geographic Wild (ru)
+http://stream.mcquack.net/149/index.m3u8
+
+#EXTINF:-1,Discovery (ru)
+http://stream.mcquack.net/177/index.m3u8
+
+#EXTINF:-1,Setanta Sport 2 (ru)
+http://stream.mcquack.net/235/index.m3u8
+
+#EXTINF:-1,Новий Канал (ua)
+http://stream.mcquack.net/157/index.m3u8
+
+#EXTINF:-1,ICTV (ua)
+http://stream.mcquack.net/158/index.m3u8
+
+#EXTINF:-1,1+1 (ua)
+http://stream.mcquack.net/219/index.m3u8
+
+#EXTINF:-1,2+2 (ua)
+http://stream.mcquack.net/173/index.m3u8
+
+#EXTINF:-1,Інтер (ua)
+http://stream.mcquack.net/174/index.m3u8
+
+#EXTINF:-1,Інтер+ (ua)
+http://stream.mcquack.net/345/index.m3u8
+
+#EXTINF:-1,К1 (ua)
+http://stream.mcquack.net/270/index.m3u8
+
+#EXTINF:-1,5 канал (ua)
+http://stream.mcquack.net/291/index.m3u8
+
+#EXTINF:-1,Прямий (ua)
+http://stream.mcquack.net/292/index.m3u8
+
+#EXTINF:-1,Мега (ua)
+http://stream.mcquack.net/325/index.m3u8
+
+#EXTINF:-1,НТН (ua)
+http://stream.mcquack.net/326/index.m3u8
+
+#EXTINF:-1,ОЦЕ (ua)
+http://stream.mcquack.net/329/index.m3u8
