@@ -87,3 +87,5 @@ http://stream.mcquack.net/382/index.m3u8
 
 #EXTINF:-1, group-title="Other",Nickelodeon (ru)
 http://stream.mcquack.net/443/index.m3u8
+#EXTINF:-1, group-title="SpaceX",SpaceX Lounches X Live Stream
+https://prod-fastly-a.video.pscp.tv/a/Transcoding/v1/hls/OxCTeqrDNI0AJTCAEqteAJss-XG5yIpIJAzDfFDKiaUPiysLIi2vKiScLze84hOsaHNtXK4Qu-bNp6NcBCnmQA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMTYwcDMwXzEwIiwiSGVpZ2h0IjoyMTYwLCJLYnBzIjoxNjAwMCwiV2lkdGgiOjM4NDB9.jTMEqkFQV_noF0PmduyFsbr9CVuBLjmNWmRsWw-GXMs/dynamic_delta.m3u8?type=live
